@@ -10,6 +10,6 @@
 
 # URL
 
-[quizApp](https://paolourciullo.github.io/blurryLoading/)
+[Blurry Loading](https://paolourciullo.github.io/blurryLoading/)
 
-This is another JS50 project.  simple, adds a unblur effect as part of landing page loading.  
+This is another JS50 project.  simple, adds an unblur effect as part of landing page loading.  
